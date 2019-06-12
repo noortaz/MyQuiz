@@ -195,8 +195,8 @@ Coding chalenge 7
 */
 
 var Quiz = function(Q, A, rightAnswer) {
-    this.Q = Q,
-    this.A = A,
+    this.Q = Q;
+    this.A = A;
     this.rightAnswer = rightAnswer
 };
 
